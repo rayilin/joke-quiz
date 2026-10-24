@@ -1,0 +1,7 @@
+# 資料庫本機產生物（部署環境會自行重建）
+backend/quiz.db
+__pycache__/
+*.pyc
+
+# 開發用截圖
+screenshot-*.png

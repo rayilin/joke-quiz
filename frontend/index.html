@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 笑話問答場</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='80' font-size='85'>😂</text></svg>" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ===== 首頁：選擇題數 ===== -->
+  <section id="home" class="screen active">
+    <div class="card home-card">
+      <div class="emoji-big">😂</div>
+      <h1>2026 笑話問答場</h1>
+      <p class="subtitle">從百則超好笑短笑話精選改編的快問快答<br />答對 <b>+1 分</b>，答錯不扣分，看你能拿幾分！</p>
+      <p class="bank-info">題庫現有 <b id="bank-count">…</b> 題，等著接招</p>
+      <div class="round-picker">
+        <button class="round-btn" data-count="10">開考 <b>10</b> 題</button>
+        <button class="round-btn" data-count="20">開考 <b>20</b> 題</button>
+        <button class="round-btn" data-count="30">開考 <b>30</b> 題</button>
+      </div>
+      <p id="home-error" class="error hidden"></p>
+    </div>
+  </section>
+
+  <!-- ===== 作答中 ===== -->
+  <section id="quiz" class="screen">
+    <div class="card quiz-card">
+      <div class="quiz-top">
+        <button id="quit-btn" class="mini-btn" title="放棄這一輪">✕ 放棄</button>
+        <span id="progress-text">第 1 / 10 題</span>
+        <span id="live-score">已答 0｜目前 0 分</span>
+      </div>
+      <div class="progress-bar"><div id="progress-fill"></div></div>
+      <div class="q-meta">
+        <span id="q-category" class="chip"></span>
+        <span id="q-id" class="q-id"></span>
+        <span class="spacer"></span>
+        <label class="tts-toggle" title="切換：出新題時自動唸出題目">
+          <input type="checkbox" id="tts-auto" checked /> 🔊 自動唸題目
+        </label>
+        <button id="tts-btn" class="mini-btn" title="重新唸一次題目">🔊 唸題目</button>
+        <button id="skip-tts" class="mini-btn hidden" title="停止朗讀，直接作答">⏭ 跳過朗讀</button>
+      </div>
+      <p id="answer-hint" class="answer-hint hidden">🎧 請先聽完題目朗讀，選項解鎖後再作答～</p>
+      <h2 id="q-text"></h2>
+      <div id="options" class="options"></div>
+      <div id="feedback" class="feedback hidden"></div>
+      <div class="nav-row">
+        <button id="next-btn" class="nav-btn" disabled>下一題 →</button>
+        <button id="submit-btn" class="nav-btn submit hidden" disabled>交卷看分數 🎉</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 結算 ===== -->
+  <section id="result" class="screen">
+    <div class="card result-card">
+      <div id="result-emoji" class="emoji-big">🏆</div>
+      <h1 id="result-title">測驗結束！</h1>
+      <p id="result-score-line" class="score-line">總分：<b id="result-score">0</b> / <span id="result-total">0</span></p>
+      <p id="result-message" class="result-message"></p>
+      <div class="result-actions">
+        <button id="restart-btn" class="nav-btn">再玩一次 🔁</button>
+        <button id="home-btn" class="nav-btn secondary">回首頁</button>
+      </div>
+    </div>
+    <div class="card review-card">
+      <h3>📋 逐題檢討</h3>
+      <div id="review-list"></div>
+    </div>
+  </section>
+
+  <footer>題目來源：NotebookLM「2026笑話大全」｜後端：FastAPI + SQLite</footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

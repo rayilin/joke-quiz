@@ -1,0 +1,1565 @@
+{
+  "meta": {
+    "title": "2026 笑話問答題庫・標準答案檔",
+    "version": "2.0",
+    "created": "2026-10-23",
+    "note": "41 題起答案為網路蒐集題目（quoted.shiquan.tw／adaymag.com／rainsru.pixnet.net 等）",
+    "source_bank": "NotebookLM「2026笑話大全：百則超好笑短笑話精選」（本地備份於 NotebookLM/2026笑話大全/）"
+  },
+  "answers": [
+    {
+      "id": 1,
+      "answer": "B",
+      "answer_text": "阿祖只剩「一年」就要百歲了，聽起來像在掰著手指數日子",
+      "explanation": "對99歲的長輩祝「長命百歲」，等於只剩一年好活了，一點也不吉利",
+      "source": "02-2026最新網路笑話（西施問路）祝壽"
+    },
+    {
+      "id": 2,
+      "answer": "D",
+      "answer_text": "蒲公英飛到阿嬤嘴裡了",
+      "explanation": "阿嬤根本不是在 rap，是一嘴蒲公英種子在飄",
+      "source": "02-2026最新網路笑話（西施問路）阿嬤的絕技"
+    },
+    {
+      "id": 3,
+      "answer": "D",
+      "answer_text": "一道「法律諮詢費5,000元」的帳單",
+      "explanation": "律師照賠500元，但反手收了老闆5000元法律諮詢費",
+      "source": "02-2026最新網路笑話（西施問路）律師的狗"
+    },
+    {
+      "id": 4,
+      "answer": "A",
+      "answer_text": "蜈蚣的腳實在太多了，一時數不完",
+      "explanation": "「看到腳了」一直喊下去也輪不到頭，蜈蚣的腳就是這麼多",
+      "source": "02-2026最新網路笑話（西施問路）蜈蚣生產"
+    },
+    {
+      "id": 5,
+      "answer": "B",
+      "answer_text": "「我是，你哪位」聽起來就像「韋禮安，你哪位」，成了無限循環",
+      "explanation": "「我是你哪位」的音近「韋禮安你哪位」——電話永遠接不通",
+      "source": "02-2026最新網路笑話（西施問路）韋禮安打給李安"
+    },
+    {
+      "id": 6,
+      "answer": "B",
+      "answer_text": "「你是不是無家可歸啊？」",
+      "explanation": "勤奮的正面故事，聽到最後一秒反轉成無家可歸",
+      "source": "02-2026最新網路笑話（西施問路）加班的理由"
+    },
+    {
+      "id": 7,
+      "answer": "C",
+      "answer_text": "三個白癡在鐵軌上散步",
+      "explanation": "三人研究的都是「光明／黑暗／火車」的象徵意義，司機只看得到眼前的人",
+      "source": "02-2026最新網路笑話（西施問路）致命哲學"
+    },
+    {
+      "id": 8,
+      "answer": "B",
+      "answer_text": "比出「讚」的手勢（👍）",
+      "explanation": "斷了4根手指，剛好只剩大拇指能比「讚」",
+      "source": "02-2026最新網路笑話（西施問路）車禍"
+    },
+    {
+      "id": 9,
+      "answer": "C",
+      "answer_text": "因為他們看到老闆都說「我要葡萄yo～」",
+      "explanation": "rap 的後綴「yo」加上葡萄，就成了「萄yo」的點餐法",
+      "source": "02-2026最新網路笑話（西施問路）買不到葡萄"
+    },
+    {
+      "id": 10,
+      "answer": "C",
+      "answer_text": "舒馬赫，因為「舒」就是「輸」嘛",
+      "explanation": "「舒馬赫」唸起來像「輸嘛～」——不計較輸贏當然是「舒」姓選手",
+      "source": "02-2026最新網路笑話（西施問路）不計較輸贏"
+    },
+    {
+      "id": 11,
+      "answer": "B",
+      "answer_text": "瞎掰",
+      "explanation": "盲人吃東西是靠「瞎（摸）掰」，一詞雙關",
+      "source": "02-2026最新網路笑話（西施問路）盲人怎麼吃橘子"
+    },
+    {
+      "id": 12,
+      "answer": "C",
+      "answer_text": "卡丘，因為他不敢再皮了",
+      "explanation": "「皮」被揍掉了，只剩「卡丘」",
+      "source": "04-歡樂笑話集錦（Gemini）皮卡丘的日常"
+    },
+    {
+      "id": 13,
+      "answer": "A",
+      "answer_text": "皮卡兵",
+      "explanation": "站起來立正姿勢，就像士兵一樣筆直",
+      "source": "04-歡樂笑話集錦（Gemini）皮卡丘的日常"
+    },
+    {
+      "id": 14,
+      "answer": "B",
+      "answer_text": "皮卡乓乒乓乒乓",
+      "explanation": "乒乓乒乓正是左右來回蹦跳的音效版皮卡丘",
+      "source": "06-百則笑話精選（Gemini）皮卡丘系列"
+    },
+    {
+      "id": 15,
+      "answer": "D",
+      "answer_text": "非選題（Fashion 題）",
+      "explanation": "非選＝Fashion，時尚英語立即上身",
+      "source": "04-歡樂笑話集錦（Gemini）諧音梗"
+    },
+    {
+      "id": 16,
+      "answer": "C",
+      "answer_text": "tokuyo，因為「偷哭唷」",
+      "explanation": "品牌名唸起來就是「偷哭唷」，愛哭當然脆弱",
+      "source": "04-歡樂笑話集錦（Gemini）諧音梗"
+    },
+    {
+      "id": 17,
+      "answer": "B",
+      "answer_text": "一點，因為「一點都不好笑」",
+      "explanation": "「一點」的時間與「一點（也不）」的程度雙關",
+      "source": "04-歡樂笑話集錦（Gemini）諧音梗"
+    },
+    {
+      "id": 18,
+      "answer": "B",
+      "answer_text": "榴槤，因為「流連忘返」",
+      "explanation": "榴槤＝流連，忘了回家的路",
+      "source": "06-百則笑話精選（Gemini）諧音梗"
+    },
+    {
+      "id": 19,
+      "answer": "A",
+      "answer_text": "成舅感（成就感）",
+      "explanation": "姐姐生了，弟弟變舅舅＝「成舅」的感覺",
+      "source": "06-百則笑話精選（Gemini）諧音梗"
+    },
+    {
+      "id": 20,
+      "answer": "D",
+      "answer_text": "接駁車",
+      "explanation": "落枕要把歪掉的脖子「接」起來，「接」而後「駁」",
+      "source": "06-百則笑話精選（Gemini）諧音梗"
+    },
+    {
+      "id": 21,
+      "answer": "B",
+      "answer_text": "八克，因為星巴克",
+      "explanation": "星星很重？重「八克」——星巴克",
+      "source": "06-百則笑話精選（Gemini）諧音梗"
+    },
+    {
+      "id": 22,
+      "answer": "B",
+      "answer_text": "手機螢幕，因為「幕（母）」生出了畫面",
+      "explanation": "「幕／母」同音，手機的母親當然是螢幕",
+      "source": "06-百則笑話精選（Gemini）諧音梗"
+    },
+    {
+      "id": 23,
+      "answer": "A",
+      "answer_text": "南瓜（難呱）",
+      "explanation": "喉嚨痛呱不出口＝「難呱」＝南瓜",
+      "source": "04-歡樂笑話集錦（Gemini）諧音梗"
+    },
+    {
+      "id": 24,
+      "answer": "C",
+      "answer_text": "能，因為「爪」沒了",
+      "explanation": "熊剪掉指甲、「爪」沒了，拆字後就是「能」",
+      "source": "04-歡樂笑話集錦（Gemini）諧音梗"
+    },
+    {
+      "id": 25,
+      "answer": "D",
+      "answer_text": "因為他繳費了（繳了需住院的帳單）",
+      "explanation": "「繳費」的聯想瞬間把他送進醫院——前門走進去、坐著輪椅出來",
+      "source": "06-百則笑話精選（Gemini）日常生活搞笑短篇"
+    },
+    {
+      "id": 26,
+      "answer": "A",
+      "answer_text": "農民（上山扛鋤頭、下山多一根拄枴杖）",
+      "explanation": "農具一扛，腿數就忽多忽少了",
+      "source": "03-植物趣味謎語與笑話（Gemini）上山三條腿"
+    },
+    {
+      "id": 27,
+      "answer": "C",
+      "answer_text": "地瓜葉（地瓜「Yeah！」）",
+      "explanation": "開心就要喊 Yeah，地瓜開心自然是地瓜「葉」",
+      "source": "03-植物趣味謎語與笑話（Gemini）地瓜"
+    },
+    {
+      "id": 28,
+      "answer": "A",
+      "answer_text": "盲眼（沒見「眼」色）",
+      "explanation": "龍眼心情不好，連「眼」都不要了＝盲眼",
+      "source": "03-植物趣味謎語與笑話（Gemini）龍眼"
+    },
+    {
+      "id": 29,
+      "answer": "D",
+      "answer_text": "西瓜（輸西瓜，輸死光）",
+      "explanation": "「輸西瓜」唸快就是「輸死光」",
+      "source": "10-趣味四則謎語集（Gemini）謎語四"
+    },
+    {
+      "id": 30,
+      "answer": "C",
+      "answer_text": "當場「告白」氣球",
+      "explanation": "生氣的黑氣球決定「告白」——告白氣球的另類用法",
+      "source": "07-笑話大全100則（漫漫日和）白氣球打黑氣球"
+    },
+    {
+      "id": 31,
+      "answer": "A",
+      "answer_text": "「阿你不是很嗆？」",
+      "explanation": "芥末被掌摑的理由：你不是很嗆？",
+      "source": "07-笑話大全100則（漫漫日和）芥末"
+    },
+    {
+      "id": 32,
+      "answer": "C",
+      "answer_text": "「什麼真的假的？」——因為大魚自己也忘了剛剛的話",
+      "explanation": "小魚的反應很有梗，但大魚三秒後也忘了自己剛剛說了什麼",
+      "source": "07-笑話大全100則（漫漫日和）魚的記憶"
+    },
+    {
+      "id": 33,
+      "answer": "A",
+      "answer_text": "「佩奇，講話就講話，不要對著媽媽吹。」",
+      "explanation": "佩佩豬的豬鼻子和吹風機一樣——媽媽覺得她正對著自己吹",
+      "source": "07-笑話大全100則（漫漫日和）佩佩豬"
+    },
+    {
+      "id": 34,
+      "answer": "D",
+      "answer_text": "用氣音說「我要一碗牛肉麵」",
+      "explanation": "被提醒是圖書館之後，他確實遵守了規定——改用氣音點餐",
+      "source": "07-笑話大全100則（漫漫日和）圖書館牛肉麵"
+    },
+    {
+      "id": 35,
+      "answer": "C",
+      "answer_text": "「沒事。」",
+      "explanation": "父親拿折筷子「試驗」半天，結論只是「沒事」，無聊行為的冷面反轉",
+      "source": "07-笑話大全100則（漫漫日和）折筷子"
+    },
+    {
+      "id": 36,
+      "answer": "B",
+      "answer_text": "「為什麼不先救棒棒？」",
+      "explanation": "剛被救上來不先道謝，反而檢討救命順序",
+      "source": "07-笑話大全100則（漫漫日和）三人溺水"
+    },
+    {
+      "id": 37,
+      "answer": "D",
+      "answer_text": "「好醜你好，我字雲長。」",
+      "explanation": "「字」雙關：張飛嫌字醜，關羽「自報表字」回敬",
+      "source": "07-笑話大全100則（漫漫日和）桃園三結義"
+    },
+    {
+      "id": 38,
+      "answer": "A",
+      "answer_text": "「Daikin（大金）？」",
+      "explanation": "「李鴻毅幾班」聽起來像大金冷氣廣告的「日本一級棒 Daikin！」",
+      "source": "07-笑話大全100則（漫漫日和）教官找人"
+    },
+    {
+      "id": 39,
+      "answer": "C",
+      "answer_text": "「傑尼傑尼～」",
+      "explanation": "劫財劫色都不要，只會說招牌叫聲的烏龜＝傑尼龜",
+      "source": "07-笑話大全100則（漫漫日和）兇殘大烏龜"
+    },
+    {
+      "id": 40,
+      "answer": "B",
+      "answer_text": "「我流川楓欸。」",
+      "explanation": "排隊被說「我先到欸」，回嘴「我流川楓欸」——比名氣的胡鬧式對嗆",
+      "source": "06-百則笑話精選（Gemini）日常生活搞笑短篇"
+    },
+    {
+      "id": 41,
+      "answer": "A",
+      "answer_text": "兩 gle（two eagle）",
+      "explanation": "「two eagle」快唸就是「兩 gle」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・兩隻老鷹"
+    },
+    {
+      "id": 42,
+      "answer": "B",
+      "answer_text": "C，因為它穿「西裝褲」",
+      "explanation": "C 念起來像「sea」，但真正的梗是「西裝褲（C）」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・西裝褲"
+    },
+    {
+      "id": 43,
+      "answer": "C",
+      "answer_text": "會變成「連假（廉假）勞工」",
+      "explanation": "連假去上班＝變成「廉價（廉假）勞工」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・連假勞工"
+    },
+    {
+      "id": 44,
+      "answer": "D",
+      "answer_text": "四千萬，因為沒「事千萬」不要出門",
+      "explanation": "颱風天「沒事千萬不要出門」＝要帶「四千萬」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・颱風四千萬"
+    },
+    {
+      "id": 45,
+      "answer": "A",
+      "answer_text": "麋鹿，因為「迷路」",
+      "explanation": "麋鹿＝「迷路」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・迷路麋鹿"
+    },
+    {
+      "id": 46,
+      "answer": "B",
+      "answer_text": "海豹，因為「海報」",
+      "explanation": "海豹＝「海報」，可以貼在牆上",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・海豹海報"
+    },
+    {
+      "id": 47,
+      "answer": "C",
+      "answer_text": "火雞，因為牠隨身備好「打火機」",
+      "explanation": "菸頭要用「打火機」才點得起——動物園裡的火雞＝打火機",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・火雞打火機"
+    },
+    {
+      "id": 48,
+      "answer": "D",
+      "answer_text": "因為一手拿石頭、一手拿雞蛋，什麼都沒丟",
+      "explanation": "一手拿石頭、一手拿雞蛋——「丟」的其實是石頭，雞蛋當然不破",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・雞蛋不會破"
+    },
+    {
+      "id": 49,
+      "answer": "A",
+      "answer_text": "透中島，正中午（透中）當然最熱",
+      "explanation": "台語的「透中」就是正中午——透中島最熱",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・透中島"
+    },
+    {
+      "id": 50,
+      "answer": "B",
+      "answer_text": "零售商，因為「零受傷」",
+      "explanation": "「零售商」聽起來像「零受傷」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・零受傷"
+    },
+    {
+      "id": 51,
+      "answer": "C",
+      "answer_text": "嘉義人，因為「綠豆加薏仁」",
+      "explanation": "「綠豆＋薏仁」＝嘉義人",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・綠豆加薏仁"
+    },
+    {
+      "id": 52,
+      "answer": "D",
+      "answer_text": "因為腳「滑」（狡猾）",
+      "explanation": "狐狸「狡猾」＝「腳滑」，所以常跌倒",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・狡猾腳滑"
+    },
+    {
+      "id": 53,
+      "answer": "A",
+      "answer_text": "壓牠一下，就「鴉（壓）雀無聲」",
+      "explanation": "「壓雀無聲」＝鴉雀無聲",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・壓雀無聲"
+    },
+    {
+      "id": 54,
+      "answer": "B",
+      "answer_text": "環保署",
+      "explanation": "「環保／署」＝最愛乾淨的「鼠」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・環保署"
+    },
+    {
+      "id": 55,
+      "answer": "C",
+      "answer_text": "布怕一萬，紙怕萬一",
+      "explanation": "成語「不怕一萬，只怕萬一」拆給布和紙",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・布怕一萬"
+    },
+    {
+      "id": 56,
+      "answer": "D",
+      "answer_text": "螢幕保護程式",
+      "explanation": "電腦開機就靠「螢幕保護程式」在保護",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・螢幕保護程式"
+    },
+    {
+      "id": 57,
+      "answer": "A",
+      "answer_text": "百科全書，因為「百科（必喀）全輸」",
+      "explanation": "看「百科全輸（書）」考試必輸",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・百科全輸"
+    },
+    {
+      "id": 58,
+      "answer": "B",
+      "answer_text": "一億，因為「一心一意」（一億）",
+      "explanation": "「一心一意」＝一「億」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・一心一億"
+    },
+    {
+      "id": 59,
+      "answer": "C",
+      "answer_text": "貴族釋迦",
+      "explanation": "「貴族釋迦」＝水果界的貴族",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・貴族釋迦"
+    },
+    {
+      "id": 60,
+      "answer": "D",
+      "answer_text": "嘴，因為「鴨嘴獸」",
+      "explanation": "「鴨嘴獸」＝鴨嘴最「瘦」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・鴨嘴獸"
+    },
+    {
+      "id": 61,
+      "answer": "A",
+      "answer_text": "寶貝，因為「神騎寶貝」（神仙自己騎）",
+      "explanation": "神仙「自騎」寶貝——「神騎寶貝」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・神騎寶貝"
+    },
+    {
+      "id": 62,
+      "answer": "B",
+      "answer_text": "因為真相大白",
+      "explanation": "「小白像哥哥」＝真相「大白」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・真相大白"
+    },
+    {
+      "id": 63,
+      "answer": "C",
+      "answer_text": "醉雞",
+      "explanation": "飛行員不能喝酒，所以不吃「醉」雞",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・醉雞"
+    },
+    {
+      "id": 64,
+      "answer": "D",
+      "answer_text": "領銜主演",
+      "explanation": "每一部電影都有「領銜」，所以他主演最多",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・領銜主演"
+    },
+    {
+      "id": 65,
+      "answer": "A",
+      "answer_text": "五月花",
+      "explanation": "「五月花」是衛生紙品牌",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・五月花"
+    },
+    {
+      "id": 66,
+      "answer": "B",
+      "answer_text": "因為老天保「右」（保佑）",
+      "explanation": "「老天保佑」＝老天保「右」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・老天保右"
+    },
+    {
+      "id": 67,
+      "answer": "C",
+      "answer_text": "「失血過多」，因為「詩寫」太多",
+      "explanation": "「詩寫」過多＝失血過多",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・李白詩寫"
+    },
+    {
+      "id": 68,
+      "answer": "D",
+      "answer_text": "五百字心得",
+      "explanation": "伍佰得寫「五百字心得」才夠數",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・伍佰字心得"
+    },
+    {
+      "id": 69,
+      "answer": "A",
+      "answer_text": "退伍，因為它「當冰」當很久了",
+      "explanation": "當「冰」（兵）當太久，最想「退伍」",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・冰塊退伍"
+    },
+    {
+      "id": 70,
+      "answer": "B",
+      "answer_text": "因為他是「研究鎖」的（研究所）",
+      "explanation": "研究「鎖」＝研究所",
+      "source": "網路蒐集・冷笑話罐頭諧音梗（quoted.shiquan.tw）・研究鎖"
+    },
+    {
+      "id": 71,
+      "answer": "C",
+      "answer_text": "紫米飯（摔得烏青紫紫的）",
+      "explanation": "跌倒摔得「紫」＝紫米飯",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・紫米飯"
+    },
+    {
+      "id": 72,
+      "answer": "D",
+      "answer_text": "紅豆（摔得紅通通）",
+      "explanation": "綠豆摔得滿臉通紅，就變紅豆",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・綠豆變紅豆"
+    },
+    {
+      "id": 73,
+      "answer": "A",
+      "answer_text": "茄子，因為摔得紫紫的",
+      "explanation": "天上掉的香蕉摔得「紫紫的」＝茄子",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・香蕉變茄子"
+    },
+    {
+      "id": 74,
+      "answer": "B",
+      "answer_text": "白酒蛤蜊",
+      "explanation": "擺到「白酒」都出來了＝白酒蛤蜊",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・白酒蛤蜊"
+    },
+    {
+      "id": 75,
+      "answer": "C",
+      "answer_text": "QQ 軟糖（哭成 QQ 的）",
+      "explanation": "難過到「QQ」就變 QQ 軟糖",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・QQ軟糖"
+    },
+    {
+      "id": 76,
+      "answer": "D",
+      "answer_text": "擺飾可樂",
+      "explanation": "只看著不喝＝當「擺飾」用",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・擺飾可樂"
+    },
+    {
+      "id": 77,
+      "answer": "A",
+      "answer_text": "冰淇淋（冰麒麟）",
+      "explanation": "「冰麒麟」冰淇淋",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・麒麟冰淇淋"
+    },
+    {
+      "id": 78,
+      "answer": "B",
+      "answer_text": "牛角麵包",
+      "explanation": "扭到腳就彎成「牛角麵包」",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・牛角麵包"
+    },
+    {
+      "id": 79,
+      "answer": "C",
+      "answer_text": "紅燒獅子頭",
+      "explanation": "燒得紅通通的獅子＝紅燒獅子頭",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・紅燒獅子頭"
+    },
+    {
+      "id": 80,
+      "answer": "D",
+      "answer_text": "念一聲「大杯咒，大杯就到」",
+      "explanation": "「大悲咒」的諧音＝「大杯咒」，一念就變大杯",
+      "source": "網路蒐集・冷笑話罐頭「變成什麼」（quoted.shiquan.tw）・大杯咒"
+    },
+    {
+      "id": 81,
+      "answer": "A",
+      "answer_text": "不喜歡，他們最愛 blood（不辣）",
+      "explanation": "吸血鬼需要 blood（血），血＝「不辣」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・吸血鬼不辣"
+    },
+    {
+      "id": 82,
+      "answer": "B",
+      "answer_text": "因為「藍脖積泥」（藍寶堅尼）",
+      "explanation": "「藍脖積泥」＝藍色的脖…咳，其實是 Lamborghini",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・藍脖積泥"
+    },
+    {
+      "id": 83,
+      "answer": "C",
+      "answer_text": "因為「菌（君）要橙（臣）死，橙（臣）不得不死」",
+      "explanation": "香菇是「菌類」＝君王；君要臣死，臣不得不死",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・菌要橙死"
+    },
+    {
+      "id": 84,
+      "answer": "D",
+      "answer_text": "因為牠會「敲胸的」（敲胸＝兇巴巴）",
+      "explanation": "猩猩一生氣就「敲胸」，聽起來就是「兇」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・敲胸的猩猩"
+    },
+    {
+      "id": 85,
+      "answer": "A",
+      "answer_text": "因為這是一個「氣象局」",
+      "explanation": "「小象（象）很生氣」＝「氣象局」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・氣象局"
+    },
+    {
+      "id": 86,
+      "answer": "B",
+      "answer_text": "旺旺仙貝（掀被）",
+      "explanation": "熱到掀被子＝「仙貝」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・旺旺仙貝"
+    },
+    {
+      "id": 87,
+      "answer": "C",
+      "answer_text": "帶水，因為「Tony 帶水」（拖泥帶水）",
+      "explanation": "Tony 帶水＝拖「泥」帶水",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・TONY帶水"
+    },
+    {
+      "id": 88,
+      "answer": "D",
+      "answer_text": "這是一首煎蛋的小情歌",
+      "explanation": "「煎蛋情歌」＝《小情歌》的煎蛋版",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・煎蛋情歌"
+    },
+    {
+      "id": 89,
+      "answer": "A",
+      "answer_text": "發福蝶",
+      "explanation": "花蝴蝶吃胖＝「發福蝶」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・發福蝶"
+    },
+    {
+      "id": 90,
+      "answer": "B",
+      "answer_text": "移山移山，亮晶晶",
+      "explanation": "「移山移山（一閃一閃）亮晶晶」",
+      "source": "網路蒐集・A Day Magazine 網友諧音梗（adaymag.com）・愚公移山"
+    },
+    {
+      "id": 91,
+      "answer": "C",
+      "answer_text": "「呆」，因為杏倒過來就是呆",
+      "explanation": "「杏」上下倒過來就是「呆」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・杏倒變呆"
+    },
+    {
+      "id": 92,
+      "answer": "D",
+      "answer_text": "說明書",
+      "explanation": "說明書一定跟著商品，永遠不能單賣",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・說明書"
+    },
+    {
+      "id": 93,
+      "answer": "A",
+      "answer_text": "借錢給他",
+      "explanation": "「借錢給朋友」經典拆散友誼組合",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・借錢拆友誼"
+    },
+    {
+      "id": 94,
+      "answer": "B",
+      "answer_text": "達文西帳號",
+      "explanation": "密碼的上面當然是「帳號」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・達文西帳號"
+    },
+    {
+      "id": 95,
+      "answer": "C",
+      "answer_text": "因為他們不熟",
+      "explanation": "三分熟、五分熟本來就「不熟」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・不熟的牛排"
+    },
+    {
+      "id": 96,
+      "answer": "D",
+      "answer_text": "哆啦A夢",
+      "explanation": "哆啦A夢圓滾滾＝伸出「圓」手（原手＝圓手）",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・哆啦A夢圓手"
+    },
+    {
+      "id": 97,
+      "answer": "A",
+      "answer_text": "打瞌睡",
+      "explanation": "打「瞌睡」輕鬆自在",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・打瞌睡"
+    },
+    {
+      "id": 98,
+      "answer": "B",
+      "answer_text": "宰相，因為宰相肚裡能撐船",
+      "explanation": "宰相肚裡「能撐船」＝肚子最大",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・宰相肚裡撐船"
+    },
+    {
+      "id": 99,
+      "answer": "C",
+      "answer_text": "因為老天有「眼（涵蓋每個角落）」",
+      "explanation": "連廁所上空都有老天爺盯著＝老天有眼",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・老天有眼"
+    },
+    {
+      "id": 100,
+      "answer": "D",
+      "answer_text": "水",
+      "explanation": "洗別人時，自己（水）是最髒的那個",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・越洗越髒"
+    },
+    {
+      "id": 101,
+      "answer": "A",
+      "answer_text": "靠嘴",
+      "explanation": "任何人吃飯都是「靠嘴」，笨問題有曲折答案",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・靠嘴吃飯"
+    },
+    {
+      "id": 102,
+      "answer": "B",
+      "answer_text": "保持呼吸，不要斷氣",
+      "explanation": "字面邏輯：持續活著的最低門檻",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・保持呼吸"
+    },
+    {
+      "id": 103,
+      "answer": "C",
+      "answer_text": "0 隻，其他全嚇跑了",
+      "explanation": "槍聲一響其他全飛，死的也掉下去",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・樹上的鳥"
+    },
+    {
+      "id": 104,
+      "answer": "D",
+      "answer_text": "小明",
+      "explanation": "題目開頭就說了「小明的媽媽」，老三當然是小明",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・三個兒子"
+    },
+    {
+      "id": 105,
+      "answer": "A",
+      "answer_text": "因為救人要「緊」",
+      "explanation": "「救人要緊」＝穿緊的",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・救人要緊"
+    },
+    {
+      "id": 106,
+      "answer": "B",
+      "answer_text": "「錯」字",
+      "explanation": "「人人見了都念錯」——念的就是「錯」字",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・人人念錯"
+    },
+    {
+      "id": 107,
+      "answer": "C",
+      "answer_text": "牙縫",
+      "explanation": "西（班牙）＋（葡萄）牙＝兩顆牙齒中間「牙縫」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・牙縫"
+    },
+    {
+      "id": 108,
+      "answer": "D",
+      "answer_text": "土裡",
+      "explanation": "蕃薯當然長在「土裡」，題目沒問品種",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・蕃薯在土裡"
+    },
+    {
+      "id": 109,
+      "answer": "A",
+      "answer_text": "算錯的時候",
+      "explanation": "算「錯」了當然不等於三",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・二加一"
+    },
+    {
+      "id": 110,
+      "answer": "B",
+      "answer_text": "一屁股債",
+      "explanation": "「一屁股債」最難扛",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・一屁股債"
+    },
+    {
+      "id": 111,
+      "answer": "C",
+      "answer_text": "同一天結婚",
+      "explanation": "夫妻當然「同一天結婚」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・同一天結婚"
+    },
+    {
+      "id": 112,
+      "answer": "D",
+      "answer_text": "因為口訣「南無（沒有南部）阿彌陀佛」",
+      "explanation": "「南無」＝沒有南方，所以都住北半球",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・南無阿彌陀佛"
+    },
+    {
+      "id": 113,
+      "answer": "A",
+      "answer_text": "別人臉上",
+      "explanation": "長在別人的臉上，再大顆都不關我的事",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・別人的青春痘"
+    },
+    {
+      "id": 114,
+      "answer": "B",
+      "answer_text": "不會游泳的人",
+      "explanation": "帶著游泳圈還不會游＝圈裡裝著「不會游泳的人」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・游泳圈"
+    },
+    {
+      "id": 115,
+      "answer": "C",
+      "answer_text": "在飛機上",
+      "explanation": "飛機上根本不在陸地上",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・地震最安全"
+    },
+    {
+      "id": 116,
+      "answer": "D",
+      "answer_text": "因為星星會「閃」",
+      "explanation": "星星都是「閃」避高手",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・星星會閃"
+    },
+    {
+      "id": 117,
+      "answer": "A",
+      "answer_text": "備胎",
+      "explanation": "備用輪胎收在行李箱，永遠不動",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・備胎"
+    },
+    {
+      "id": 118,
+      "answer": "B",
+      "answer_text": "槍林彈雨",
+      "explanation": "「槍林彈雨」的彈雨真的會傷人",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・槍林彈雨"
+    },
+    {
+      "id": 119,
+      "answer": "C",
+      "answer_text": "因為沒有「天理」",
+      "explanation": "「沒天理」所以只好學「地理」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・沒天理學地理"
+    },
+    {
+      "id": 120,
+      "answer": "D",
+      "answer_text": "因為 Windows（窗戶）都一直開著",
+      "explanation": "「Windows」＝窗戶開著睡不著",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・Windows 睡不著"
+    },
+    {
+      "id": 121,
+      "answer": "A",
+      "answer_text": "閉上眼睛",
+      "explanation": "不閉眼哪來的睡？",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・睡覺閉眼"
+    },
+    {
+      "id": 122,
+      "answer": "B",
+      "answer_text": "先關門",
+      "explanation": "不關門等會有人敲門，那就糗了",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・先關門"
+    },
+    {
+      "id": 123,
+      "answer": "C",
+      "answer_text": "廁所",
+      "explanation": "廁所一格一人，進去立即客滿",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・廁所客滿"
+    },
+    {
+      "id": 124,
+      "answer": "D",
+      "answer_text": "答案",
+      "explanation": "「謎」的答案就是「答案」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・答案解謎"
+    },
+    {
+      "id": 125,
+      "answer": "A",
+      "answer_text": "頭比較痛",
+      "explanation": "被打的是頭，最痛的是頭",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・椰子西瓜"
+    },
+    {
+      "id": 126,
+      "answer": "B",
+      "answer_text": "還是七種",
+      "explanation": "彩虹不會換色調，兩道也只是七色",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・兩道彩虹"
+    },
+    {
+      "id": 127,
+      "answer": "C",
+      "answer_text": "罪名",
+      "explanation": "「罪名」一分一毫也扛不動",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・扛不起罪名"
+    },
+    {
+      "id": 128,
+      "answer": "D",
+      "answer_text": "曹操，因為「說曹操曹操就到」",
+      "explanation": "「說曹操曹操就到」，誰有他快",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・曹操最快"
+    },
+    {
+      "id": 129,
+      "answer": "A",
+      "answer_text": "油腔滑調的人",
+      "explanation": "全場都是「油」，最怕「油腔滑調」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・油腔滑調"
+    },
+    {
+      "id": 130,
+      "answer": "B",
+      "answer_text": "蚊子",
+      "explanation": "拍死肚皮上的蚊子，噴出來的血是你的",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・蚊子"
+    },
+    {
+      "id": 131,
+      "answer": "C",
+      "answer_text": "會被偷走",
+      "explanation": "金子不會生鏽，但會被偷",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・金子被偷"
+    },
+    {
+      "id": 132,
+      "answer": "D",
+      "answer_text": "拿主意",
+      "explanation": "「拿主意」靠腦袋，不用手",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・拿主意"
+    },
+    {
+      "id": 133,
+      "answer": "A",
+      "answer_text": "因為「早晚」會有報應",
+      "explanation": "「早晚」不做，下午就安全？錯，是回答早晚都有報應",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・早晚報應"
+    },
+    {
+      "id": 134,
+      "answer": "B",
+      "answer_text": "報紙",
+      "explanation": "報紙當天的日期，過了便「無效」",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・報紙日期"
+    },
+    {
+      "id": 135,
+      "answer": "C",
+      "answer_text": "0 個，一「打」全破",
+      "explanation": "「一打」就全打破了，自然 0 個",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・雞蛋一打"
+    },
+    {
+      "id": 136,
+      "answer": "D",
+      "answer_text": "美人魚，因為不能劈腿",
+      "explanation": "美人魚只有一條尾巴，想劈也劈不了",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・美人魚不劈腿"
+    },
+    {
+      "id": 137,
+      "answer": "A",
+      "answer_text": "寒假 4 週、暑假 8 週",
+      "explanation": "暑假「熱」得脹成 8 週，寒假冷縮成 4 週",
+      "source": "網路蒐集・語錄筆記腦筋急轉彎（quoted.shiquan.tw）・寒暑假熱脹冷縮"
+    },
+    {
+      "id": 138,
+      "answer": "B",
+      "answer_text": "一鳴驚人（一名金人）",
+      "explanation": "「一名金人」＝一鳴驚人",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・一鳴驚人"
+    },
+    {
+      "id": 139,
+      "answer": "C",
+      "answer_text": "有勇無謀（游泳無哞）",
+      "explanation": "下水後「游泳無哞（謀）」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・游泳無哞"
+    },
+    {
+      "id": 140,
+      "answer": "D",
+      "answer_text": "實至名歸（十字名龜）",
+      "explanation": "背「十」字「架」的「名龜（鳴歸）」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・實至名歸"
+    },
+    {
+      "id": 141,
+      "answer": "A",
+      "answer_text": "因為他在睡覺",
+      "explanation": "睡覺時當然一整晚都不眨眼",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・不眨眼"
+    },
+    {
+      "id": 142,
+      "answer": "B",
+      "answer_text": "禮物是一顆足球",
+      "explanation": "生日禮物是「足球」，當然要踢",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・足球禮物"
+    },
+    {
+      "id": 143,
+      "answer": "C",
+      "answer_text": "因為他只給了 80 元",
+      "explanation": "他嘴上說「拿 100 元買 75 元的東西」，其實掏出來的是 80 元，找 5 剛好",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・只給80元"
+    },
+    {
+      "id": 144,
+      "answer": "D",
+      "answer_text": "因為他只有四根手指頭",
+      "explanation": "少一根就是「不見五指」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・四根手指"
+    },
+    {
+      "id": 145,
+      "answer": "A",
+      "answer_text": "因為他寫的字就是「錯」",
+      "explanation": "寫的正是「錯」字",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・寫錯字"
+    },
+    {
+      "id": 146,
+      "answer": "B",
+      "answer_text": "因為他根本不在車上",
+      "explanation": "「搭客車」的「所有人都受傷」，小明剛好沒搭",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・不在車上"
+    },
+    {
+      "id": 147,
+      "answer": "C",
+      "answer_text": "因為他老是說髒話",
+      "explanation": "「嘴上不乾淨」＝說髒話",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・說髒話"
+    },
+    {
+      "id": 148,
+      "answer": "D",
+      "answer_text": "玩扮家家酒",
+      "explanation": "扮家家酒當然可以當爸爸",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・扮家家酒"
+    },
+    {
+      "id": 149,
+      "answer": "A",
+      "answer_text": "因為他在拔河",
+      "explanation": "拔河就是要往後拉",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・拔河"
+    },
+    {
+      "id": 150,
+      "answer": "B",
+      "answer_text": "家裡根本沒人",
+      "explanation": "家中空無一人，當然沒人發現",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・家裡沒人"
+    },
+    {
+      "id": 151,
+      "answer": "C",
+      "answer_text": "因為他以前是億萬富翁",
+      "explanation": "花到剩一百萬＝曾經「億萬」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・億萬富翁"
+    },
+    {
+      "id": 152,
+      "answer": "D",
+      "answer_text": "因為他在門外",
+      "explanation": "人在「門外」，暖氣關他什麼事",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・他在門外"
+    },
+    {
+      "id": 153,
+      "answer": "A",
+      "answer_text": "因為各只有一顆",
+      "explanation": "一顆紅豆一顆綠豆，撥一下就分完了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・各一顆"
+    },
+    {
+      "id": 154,
+      "answer": "B",
+      "answer_text": "只是「想」，不用花錢",
+      "explanation": "「想」去上海當然不花錢，要不要成行另說",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・只是想"
+    },
+    {
+      "id": 155,
+      "answer": "C",
+      "answer_text": "醒來",
+      "explanation": "先起床醒來，夢才「結束」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・醒來"
+    },
+    {
+      "id": 156,
+      "answer": "D",
+      "answer_text": "明天的明天",
+      "explanation": "「後天」就是「明天的明天」，別想太多",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・後天的明天"
+    },
+    {
+      "id": 157,
+      "answer": "A",
+      "answer_text": "芒果（「盲果」）",
+      "explanation": "「芒果」＝「盲」果，天生視力不好",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・盲果"
+    },
+    {
+      "id": 158,
+      "answer": "B",
+      "answer_text": "IKEA（台語的「他走了」）",
+      "explanation": "台語「他走了」聽起來就是 IKEA",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・IKEA"
+    },
+    {
+      "id": 159,
+      "answer": "C",
+      "answer_text": "結婚",
+      "explanation": "不結婚哪來的離婚？罪魁禍首當然是「結婚」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・離婚主因"
+    },
+    {
+      "id": 160,
+      "answer": "D",
+      "answer_text": "偷笑",
+      "explanation": "「偷笑」誰也抓不到",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・偷笑"
+    },
+    {
+      "id": 161,
+      "answer": "A",
+      "answer_text": "每個月都有 28 天",
+      "explanation": "不論大月小月，都「有」28 天",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・28天"
+    },
+    {
+      "id": 162,
+      "answer": "B",
+      "answer_text": "花，因為「花生米」",
+      "explanation": "「花生米」——米是「花」生的",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・花生米"
+    },
+    {
+      "id": 163,
+      "answer": "C",
+      "answer_text": "你自己",
+      "explanation": "同父同母不叫手足的，只可能是「你自己」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・你自己"
+    },
+    {
+      "id": 164,
+      "answer": "D",
+      "answer_text": "因為他倒著走",
+      "explanation": "倒著走，腳印留在「前方」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・倒著走"
+    },
+    {
+      "id": 165,
+      "answer": "A",
+      "answer_text": "右手",
+      "explanation": "右手抓右手，永遠辦不到",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・右手"
+    },
+    {
+      "id": 166,
+      "answer": "B",
+      "answer_text": "年齡",
+      "explanation": "年齡年年增加，永不下修",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・年齡"
+    },
+    {
+      "id": 167,
+      "answer": "C",
+      "answer_text": "1 最懶、2 最勤（「一不做二不休」）",
+      "explanation": "成語「一不做二不休」替數字分高下",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・一不做二不休"
+    },
+    {
+      "id": 168,
+      "answer": "D",
+      "answer_text": "因為牠覺得很冷",
+      "explanation": "北極熊居然還怕冷？牠懷疑自己身分",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・怕冷的北極熊"
+    },
+    {
+      "id": 169,
+      "answer": "A",
+      "answer_text": "因為人本來就只有一隻左手",
+      "explanation": "誰沒有「兩」隻左手？本來就只有一隻左手",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・一隻左手"
+    },
+    {
+      "id": 170,
+      "answer": "B",
+      "answer_text": "茉莉花（好一朵美麗／沒力的茉莉花）",
+      "explanation": "「好一朵美麗（沒力）的茉莉花」——唱過就知道它沒力",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・沒力的茉莉花"
+    },
+    {
+      "id": 171,
+      "answer": "C",
+      "answer_text": "多多保重（怕體重增加的關心話）",
+      "explanation": "「多多保重」的「保重」＝保持體重（莫增重）",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・多多保重"
+    },
+    {
+      "id": 172,
+      "answer": "D",
+      "answer_text": "縮兩隻腳就會跌倒",
+      "explanation": "兩隻都縮起來就站不穩了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・白鷺鷥"
+    },
+    {
+      "id": 173,
+      "answer": "A",
+      "answer_text": "去醫院檢查",
+      "explanation": "長出翅膀第一件事：就醫確認沒事",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・翅膀到醫院"
+    },
+    {
+      "id": 174,
+      "answer": "B",
+      "answer_text": "橋的名字就叫「不准過橋」",
+      "explanation": "過的橋「名字」叫不准過橋，過自己的橋不犯規",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・不准過橋"
+    },
+    {
+      "id": 175,
+      "answer": "C",
+      "answer_text": "電話",
+      "explanation": "「電話」全球都通（打得到）",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・電話通用"
+    },
+    {
+      "id": 176,
+      "answer": "D",
+      "answer_text": "阿拉伯數字",
+      "explanation": "1、2、3 走遍全世界",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・阿拉伯數字"
+    },
+    {
+      "id": 177,
+      "answer": "A",
+      "answer_text": "都是 10 筆畫",
+      "explanation": "兩個字的筆畫剛好一樣多",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・10 筆畫"
+    },
+    {
+      "id": 178,
+      "answer": "B",
+      "answer_text": "在爺爺面前（他永遠是他爸的小孩）",
+      "explanation": "在「爺爺」面前，爸爸永遠還是孩子",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・爺爺面前"
+    },
+    {
+      "id": 179,
+      "answer": "C",
+      "answer_text": "因為他正在瞄準",
+      "explanation": "瞄準器多單眼——結案",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・瞄準敵人"
+    },
+    {
+      "id": 180,
+      "answer": "D",
+      "answer_text": "風車",
+      "explanation": "風車一輩子原地打轉",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・風車"
+    },
+    {
+      "id": 181,
+      "answer": "A",
+      "answer_text": "假牙",
+      "explanation": "假牙最「晚」登場",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・假牙"
+    },
+    {
+      "id": 182,
+      "answer": "B",
+      "answer_text": "襪子",
+      "explanation": "襪子被「填滿」最不挑剔",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・襪子"
+    },
+    {
+      "id": 183,
+      "answer": "C",
+      "answer_text": "變成蝴蝶飛過去",
+      "explanation": "等長大變蝴蝶直接飛渡",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・毛毛蟲過河"
+    },
+    {
+      "id": 184,
+      "answer": "D",
+      "answer_text": "「月」字",
+      "explanation": "「日＋月潭」裡面夾一個「月」，字面上的月",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・日月潭"
+    },
+    {
+      "id": 185,
+      "answer": "A",
+      "answer_text": "新娘（今天新娘、明天老婆）",
+      "explanation": "「今天是新娘，明天是老婆」──一晚就進化",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・新娘"
+    },
+    {
+      "id": 186,
+      "answer": "B",
+      "answer_text": "雞蛋裡孵出來的",
+      "explanation": "再大的公雞也是從「雞蛋」出來的",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・公雞雞蛋"
+    },
+    {
+      "id": 187,
+      "answer": "C",
+      "answer_text": "因為樹根本不會跳",
+      "explanation": "樹一輩子跳不了，青蛙贏定了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・樹不會跳"
+    },
+    {
+      "id": 188,
+      "answer": "D",
+      "answer_text": "火花",
+      "explanation": "「火花」碰了會出事",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・火花"
+    },
+    {
+      "id": 189,
+      "answer": "A",
+      "answer_text": "因為「站著看腳會痠」",
+      "explanation": "站兩小時腳會痠，誰受得了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・坐著看電影"
+    },
+    {
+      "id": 190,
+      "answer": "B",
+      "answer_text": "溫度計（指標一路往上爬）",
+      "explanation": "溫度越高，計上的刻度越爬越高",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・溫度計爬高"
+    },
+    {
+      "id": 191,
+      "answer": "C",
+      "answer_text": "他刷的是假牙",
+      "explanation": "假牙拿下來，嘴就能同時吹口哨",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・刷假牙"
+    },
+    {
+      "id": 192,
+      "answer": "D",
+      "answer_text": "球門",
+      "explanation": "「球門」沒有門板",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・球門"
+    },
+    {
+      "id": 193,
+      "answer": "A",
+      "answer_text": "因為那是獸醫院",
+      "explanation": "獸醫院只看動物",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・獸醫院"
+    },
+    {
+      "id": 194,
+      "answer": "B",
+      "answer_text": "傻瓜",
+      "explanation": "「傻瓜」不能吃",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・傻瓜"
+    },
+    {
+      "id": 195,
+      "answer": "C",
+      "answer_text": "用「衛生紙」比較好…",
+      "explanation": "字面陷阱：重點不是手，是衛生紙",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・用衛生紙"
+    },
+    {
+      "id": 196,
+      "answer": "D",
+      "answer_text": "記得起床、不要遲到",
+      "explanation": "睡過頭什麼都白帶了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・記得起床"
+    },
+    {
+      "id": 197,
+      "answer": "A",
+      "answer_text": "瀑布",
+      "explanation": "「瀑布」用剪刀剪不斷",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・瀑布"
+    },
+    {
+      "id": 198,
+      "answer": "B",
+      "answer_text": "在地圖上爬",
+      "explanation": "螞蟻沿著「地圖」走了整個太平洋",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・地圖上爬"
+    },
+    {
+      "id": 199,
+      "answer": "C",
+      "answer_text": "走路",
+      "explanation": "自己走路，永遠不會「車」暈",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・走路不暈"
+    },
+    {
+      "id": 200,
+      "answer": "D",
+      "answer_text": "鴨蛋（孵出來的是小鴨）",
+      "explanation": "鴨蛋孵出來的是小鴨，本來就孵不出小雞",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・買鴨蛋"
+    },
+    {
+      "id": 201,
+      "answer": "A",
+      "answer_text": "因為是「凍」豆腐",
+      "explanation": "凍成石頭般的凍豆腐才打得痛",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・凍豆腐"
+    },
+    {
+      "id": 202,
+      "answer": "B",
+      "answer_text": "「這裡是地球嗎？」",
+      "explanation": "在地圖外提問，神仙也難答",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・這裡是地球嗎"
+    },
+    {
+      "id": 203,
+      "answer": "C",
+      "answer_text": "朝下",
+      "explanation": "牛的尾巴永遠垂向地面＝朝下",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・牛尾巴朝下"
+    },
+    {
+      "id": 204,
+      "answer": "D",
+      "answer_text": "還是兩個人",
+      "explanation": "一＋一＝二，別想複雜",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・兩個人"
+    },
+    {
+      "id": 205,
+      "answer": "A",
+      "answer_text": "邁另一隻腳",
+      "explanation": "另一隻腳還沒上去呢",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・另一隻腳"
+    },
+    {
+      "id": 206,
+      "answer": "B",
+      "answer_text": "因為那些老外本來就不懂英語",
+      "explanation": "不是每個老外都會說英語",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・老外不懂英語"
+    },
+    {
+      "id": 207,
+      "answer": "C",
+      "answer_text": "不到 3 秒，不信你再唸一次",
+      "explanation": "把「小學唸到大學」唸出來，果然 3 秒內畢業",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・小學到大學"
+    },
+    {
+      "id": 208,
+      "answer": "D",
+      "answer_text": "親戚關係",
+      "explanation": "繞了一圈，還是「親戚」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・親戚關係"
+    },
+    {
+      "id": 209,
+      "answer": "A",
+      "answer_text": "先開冰箱",
+      "explanation": "不開冰箱什麼都拿不到",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・先開冰箱"
+    },
+    {
+      "id": 210,
+      "answer": "B",
+      "answer_text": "壞掉的電燈",
+      "explanation": "最直白的答案：壞了",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・壞電燈"
+    },
+    {
+      "id": 211,
+      "answer": "C",
+      "answer_text": "Pig",
+      "explanation": "到了美國就改說英文：Pig",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・豬到美國"
+    },
+    {
+      "id": 212,
+      "answer": "D",
+      "answer_text": "姓蕭，因為「削（蕭）鉛筆」",
+      "explanation": "「削鉛筆」的「削（蕭）」——鉛筆當然姓蕭",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・鉛筆姓蕭"
+    },
+    {
+      "id": 213,
+      "answer": "A",
+      "answer_text": "小象（大象的鼻子之外，小象比誰都長）",
+      "explanation": "題目問「第二長」，可動物園裡「象」一族包辦",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・小象"
+    },
+    {
+      "id": 214,
+      "answer": "B",
+      "answer_text": "因為他的字典是「法文」",
+      "explanation": "法文字典找不到中文的「難」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・法文字典"
+    },
+    {
+      "id": 215,
+      "answer": "C",
+      "answer_text": "因為這位警察是「媽媽」（女的）",
+      "explanation": "警察也可以是女生，小孩當然喊「媽媽」",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・女警察"
+    },
+    {
+      "id": 216,
+      "answer": "D",
+      "answer_text": "蹺蹺板",
+      "explanation": "蹺蹺板兩端一半升一半降",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・蹺蹺板"
+    },
+    {
+      "id": 217,
+      "answer": "A",
+      "answer_text": "別人身上",
+      "explanation": "咬在別人身上，你當然不癢",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・蚊子咬"
+    },
+    {
+      "id": 218,
+      "answer": "B",
+      "answer_text": "害羞的斑馬（紅了臉）",
+      "explanation": "黑白條紋外居然「臉紅」＝害羞的斑馬",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・害羞斑馬"
+    },
+    {
+      "id": 219,
+      "answer": "C",
+      "answer_text": "「你睡著了嗎？」",
+      "explanation": "睡著的人無法答話，醒著的人只能說沒有",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・你睡了嗎"
+    },
+    {
+      "id": 220,
+      "answer": "D",
+      "answer_text": "小紅帽今天沒戴帽子",
+      "explanation": "沒戴帽子的小紅帽少了招牌造型",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・小紅帽沒戴帽"
+    },
+    {
+      "id": 221,
+      "answer": "A",
+      "answer_text": "黑板",
+      "explanation": "黑板越黑越乾淨，越白越「髒」（寫滿）",
+      "source": "網路蒐集・100題腦筋急轉彎彙整（rainsru.pixnet.net）・黑板"
+    },
+    {
+      "id": 222,
+      "answer": "B",
+      "answer_text": "水母",
+      "explanation": "水的「母」＝「水母」",
+      "source": "網路蒐集・痞客邦冷笑話精選・水的媽媽"
+    }
+  ]
+}

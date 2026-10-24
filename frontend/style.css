@@ -1,0 +1,292 @@
+:root {
+  --bg: #fef6e4;
+  --card: #ffffff;
+  --ink: #1f1235;
+  --muted: #8a7ba8;
+  --primary: #f0554f;
+  --primary-dark: #d63f3a;
+  --correct: #2fa96e;
+  --wrong: #e25563;
+  --accent: #ffc75f;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", sans-serif;
+  background: linear-gradient(160deg, var(--bg) 0%, #ffe9e3 55%, #fde1e6 100%);
+  color: var(--ink);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 16px 40px;
+}
+
+.screen { display: none; width: 100%; max-width: 720px; }
+.screen.active { display: block; }
+
+.card {
+  background: var(--card);
+  border-radius: 22px;
+  padding: 32px 28px;
+  box-shadow: 0 12px 32px rgba(31, 18, 53, 0.12);
+  margin-bottom: 18px;
+}
+
+.emoji-big { font-size: 56px; text-align: center; }
+
+h1 { font-size: 30px; text-align: center; margin: 8px 0 12px; letter-spacing: 1px; }
+h2 { font-size: 21px; line-height: 1.6; margin: 14px 0 20px; }
+h3 { font-size: 19px; margin-bottom: 14px; }
+
+.subtitle { color: var(--muted); text-align: center; line-height: 1.7; margin-bottom: 10px; }
+.subtitle b { color: var(--primary); }
+
+.bank-info { text-align: center; color: var(--muted); margin-bottom: 24px; }
+.bank-info b { color: var(--ink); }
+
+.round-picker { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+.round-btn {
+  font-family: inherit;
+  font-size: 18px;
+  padding: 14px 26px;
+  border: 3px solid var(--ink);
+  border-radius: 16px;
+  background: var(--accent);
+  cursor: pointer;
+  box-shadow: 4px 4px 0 var(--ink);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.round-btn b { font-size: 22px; }
+.round-btn:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0 var(--ink); }
+.round-btn:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 var(--ink); }
+
+.error { color: var(--wrong); text-align: center; margin-top: 14px; }
+
+/* ---- 作答畫面 ---- */
+.quiz-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.mini-btn {
+  font-family: inherit;
+  border: none;
+  background: #f3eefb;
+  color: var(--muted);
+  border-radius: 10px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.mini-btn:hover { color: var(--wrong); }
+
+.progress-bar {
+  height: 10px;
+  background: #f0e9fb;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+#progress-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, var(--accent), var(--primary));
+  border-radius: 6px;
+  transition: width 0.25s ease;
+}
+
+.q-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.q-meta .spacer { flex: 1; }
+.chip {
+  background: #e8f7f0;
+  color: var(--correct);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+.q-id { color: var(--muted); font-size: 13px; }
+
+/* 語音朗讀控制 */
+.tts-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+}
+.tts-toggle input { accent-color: var(--primary); cursor: pointer; }
+
+/* 聽題中：選項鎖定 */
+.option-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+.answer-hint {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--primary);
+  animation: pop-in 0.25s ease;
+}
+
+.options { display: grid; gap: 12px; }
+.option-btn {
+  font-family: inherit;
+  font-size: 16px;
+  text-align: left;
+  padding: 14px 16px 14px 14px;
+  border: 2px solid #e4dcf5;
+  border-radius: 14px;
+  background: #faf8ff;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  line-height: 1.5;
+  transition: border-color 0.12s ease, background 0.12s ease;
+}
+.option-btn:hover { border-color: var(--accent); background: #fffdf5; }
+.option-btn.selected {
+  border-color: var(--primary);
+  background: #fff3f2;
+  box-shadow: 0 0 0 2px #fbd2cf;
+}
+.option-btn .letter {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--ink);
+  color: #fff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+}
+.option-btn.selected .letter { background: var(--primary); }
+
+/* 揭曉後的正解／錯誤標示；locked 時整組禁止再點 */
+.options.locked .option-btn { cursor: default; }
+.options.locked .option-btn { pointer-events: none; }
+.option-btn.as-correct {
+  border-color: var(--correct);
+  background: #effaf4;
+  box-shadow: 0 0 0 2px #bfe8d2;
+}
+.option-btn.as-correct .letter { background: var(--correct); }
+.option-btn.as-wrong {
+  border-color: var(--wrong);
+  background: #fdefef;
+  opacity: 0.9;
+}
+.option-btn.as-wrong .letter { background: var(--wrong); }
+
+/* 即時回饋橫幅 */
+.feedback {
+  margin-top: 18px;
+  border-radius: 14px;
+  padding: 14px 16px;
+  font-size: 15px;
+  line-height: 1.6;
+  animation: pop-in 0.25s ease;
+}
+.feedback.good {
+  background: #eefaf3;
+  border: 2px solid #bfe8d2;
+}
+.feedback.bad {
+  background: #fdf2f3;
+  border: 2px solid #f7c9cf;
+}
+.fb-head { font-weight: 700; font-size: 17px; margin-bottom: 6px; }
+.feedback.good .fb-head { color: var(--correct); }
+.feedback.bad .fb-head { color: var(--wrong); }
+.fb-answer { margin-bottom: 4px; font-weight: 700; color: var(--correct); }
+.fb-yours { color: var(--muted); margin-bottom: 4px; }
+.fb-explain { color: var(--muted); }
+@keyframes pop-in {
+  from { transform: scale(0.96); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.nav-row { display: flex; gap: 12px; justify-content: center; margin-top: 24px; }
+.nav-btn {
+  font-family: inherit;
+  font-size: 16px;
+  border: none;
+  background: var(--primary);
+  color: #fff;
+  border-radius: 14px;
+  padding: 12px 26px;
+  cursor: pointer;
+  transition: background 0.12s ease, transform 0.12s ease;
+}
+.nav-btn:hover:not(:disabled) { background: var(--primary-dark); transform: translateY(-1px); }
+.nav-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.nav-btn.secondary { background: #efe9f9; color: var(--ink); }
+.nav-btn.secondary:hover:not(:disabled) { background: #e2d8f5; }
+.nav-btn.submit { background: var(--correct); }
+.nav-btn.submit:hover:not(:disabled) { background: #268a58; }
+
+/* ---- 結算畫面 ---- */
+.score-line { text-align: center; font-size: 22px; margin: 6px 0; }
+.score-line b {
+  font-size: 44px;
+  color: var(--primary);
+  vertical-align: middle;
+}
+.result-message { text-align: center; color: var(--muted); margin-bottom: 22px; }
+.result-actions { display: flex; gap: 12px; justify-content: center; }
+
+.review-item {
+  border: 2px solid #f0ecf8;
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  background: #fbfaff;
+}
+.review-item.correct { border-left: 6px solid var(--correct); }
+.review-item.wrong { border-left: 6px solid var(--wrong); }
+.review-item .rv-head {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+.rv-tag {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 2px 10px;
+  border-radius: 999px;
+}
+.review-item.correct .rv-tag { background: #e3f5ec; color: var(--correct); }
+.review-item.wrong .rv-tag { background: #fdeaec; color: var(--wrong); }
+.rv-source { color: var(--muted); font-size: 12px; }
+.rv-question { font-weight: 700; margin-bottom: 6px; line-height: 1.5; }
+.rv-line { font-size: 14px; line-height: 1.6; margin-bottom: 3px; }
+.rv-line.your-answer { color: var(--muted); }
+.rv-line.right-answer { color: var(--correct); font-weight: 700; }
+.rv-explain { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+footer {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+.hidden { display: none !important; }
+
+@media (max-width: 520px) {
+  .card { padding: 24px 18px; }
+  h1 { font-size: 24px; }
+  .round-picker { flex-direction: column; }
+}
