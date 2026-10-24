@@ -8,7 +8,7 @@
 題庫擴充的蒐集紀錄腳本：`data/expand_bank.py`（含所有新題原文與出處）。
 
 **上線資訊**：GitHub repo <https://github.com/rayilin/joke-quiz>｜
-Render 網址（部署後見下方「部署到 Render」段落）。
+Render 網址：<https://joke-quiz.onrender.com>（免費層，閒置約 15 分鐘會休眠、冷啟動 30～60 秒）。
 
 ## 功能
 
